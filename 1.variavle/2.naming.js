@@ -34,6 +34,3 @@ let windAudio;
 // 꿀팁
 let audioBackground;
 let audioWind;
-
-
-au
